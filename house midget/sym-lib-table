@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX13487EESAT")(type "KiCad")(uri "/home/sharoun/Downloads/MAX13487EESAT/MAX13487EESAT.kicad_sym")(options "")(descr ""))
+  (lib (name "LM258DR")(type "KiCad")(uri "/home/sharoun/Downloads/LM258DR/LM258DR.kicad_sym")(options "")(descr ""))
+)
