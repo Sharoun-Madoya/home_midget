@@ -1,7 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "MAX13487EESAT")(type "KiCad")(uri "/home/sharoun/Downloads/MAX13487EESAT/MAX13487EESAT.kicad_sym")(options "")(descr ""))
-  (lib (name "LM258DR")(type "KiCad")(uri "/home/sharoun/Downloads/LM258DR/LM258DR.kicad_sym")(options "")(descr ""))
-  (lib (name "LM224D")(type "KiCad")(uri "/home/sharoun/Downloads/LM224D/LM224D.kicad_sym")(options "")(descr ""))
-  (lib (name "B3U-1000P")(type "KiCad")(uri "/home/sharoun/Downloads/B3U-1000P/B3U-1000P.kicad_sym")(options "")(descr ""))
+  (lib (name "SRD-12VDC-SL-C")(type "KiCad")(uri "/home/sharoun/Downloads/SRD-12VDC-SL-C/SRD-12VDC-SL-C.kicad_sym")(options "")(descr ""))
+  (lib (name "74hct14d_653")(type "KiCad")(uri "/home/sharoun/Downloads/74HCT14D_653/74HCT14D_653.kicad_sym")(options "")(descr ""))
 )
