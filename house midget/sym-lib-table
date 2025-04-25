@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "SRD-12VDC-SL-C")(type "KiCad")(uri "/home/sharoun/Downloads/SRD-12VDC-SL-C/SRD-12VDC-SL-C.kicad_sym")(options "")(descr ""))
   (lib (name "74hct14d_653")(type "KiCad")(uri "/home/sharoun/Downloads/74HCT14D_653/74HCT14D_653.kicad_sym")(options "")(descr ""))
+  (lib (name "thuya")(type "KiCad")(uri "/home/sharoun/Downloads/thuya/WB3S.kicad_sym")(options "")(descr ""))
 )
