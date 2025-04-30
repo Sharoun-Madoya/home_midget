@@ -11949,7 +11949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 129.54 223.8248 0)
 			(effects
 				(font
@@ -12017,7 +12017,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 55.88 302.768 90)
 			(effects
 				(font
@@ -12085,7 +12085,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ULN2003ADE4:SOIC127P600X175-16N"
 			(at 207.01 266.7 0)
 			(effects
 				(font
@@ -12196,7 +12196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 320.04 83.058 90)
 			(effects
 				(font
@@ -12550,7 +12550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 429.26 375.158 90)
 			(effects
 				(font
@@ -13016,7 +13016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
 			(at 59.3852 95.25 0)
 			(effects
 				(font
@@ -13165,7 +13165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
 			(at 133.0452 97.79 0)
 			(effects
 				(font
@@ -13299,7 +13299,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 481.33 326.898 90)
 			(effects
 				(font
@@ -13367,7 +13367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Cree-XP"
 			(at 101.6 299.72 0)
 			(effects
 				(font
@@ -13789,7 +13789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 346.71 93.218 90)
 			(effects
 				(font
@@ -13857,7 +13857,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Cree-XP"
 			(at 100.33 311.15 0)
 			(effects
 				(font
@@ -13999,7 +13999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 429.26 382.778 90)
 			(effects
 				(font
@@ -14132,7 +14132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 135.382 43.18 90)
 			(effects
 				(font
@@ -14274,7 +14274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 54.61 324.358 90)
 			(effects
 				(font
@@ -14342,7 +14342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 328.93 34.798 90)
 			(effects
 				(font
@@ -14657,7 +14657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_1825_4564Metric"
 			(at 59.3852 146.05 0)
 			(effects
 				(font
@@ -14857,7 +14857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 398.78 118.4148 0)
 			(effects
 				(font
@@ -14925,7 +14925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 330.2 157.988 90)
 			(effects
 				(font
@@ -14992,7 +14992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 339.852 382.27 90)
 			(effects
 				(font
@@ -15191,7 +15191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 65.532 43.18 90)
 			(effects
 				(font
@@ -15308,7 +15308,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "46f1f6cd-dd95-48bf-b461-39e605f14ea0")
-		(property "Reference" "P"
+		(property "Reference" "P1"
 			(at 47.244 384.302 0)
 			(effects
 				(font
@@ -15326,7 +15326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Sunlord_MWSA0605S"
 			(at 43.18 387.35 0)
 			(effects
 				(font
@@ -15368,7 +15368,7 @@
 		(instances
 			(project ""
 				(path "/74538624-538b-47d7-be7c-ed32a5ac9ce3/227ac061-7cea-4375-9108-341f2d6d4fe0"
-					(reference "P")
+					(reference "P1")
 					(unit 1)
 				)
 			)
@@ -15399,7 +15399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 370.332 384.81 90)
 			(effects
 				(font
@@ -15466,7 +15466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 273.812 378.46 90)
 			(effects
 				(font
@@ -15875,7 +15875,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
 			(at 124.1552 46.99 0)
 			(effects
 				(font
@@ -16008,7 +16008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 402.082 384.81 90)
 			(effects
 				(font
@@ -16276,7 +16276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Cree-XP"
 			(at 35.56 322.58 0)
 			(effects
 				(font
@@ -16619,7 +16619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Cree-XP"
 			(at 100.33 321.31 0)
 			(effects
 				(font
@@ -16761,7 +16761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 429.26 398.018 90)
 			(effects
 				(font
@@ -17104,7 +17104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 367.03 21.8948 0)
 			(effects
 				(font
@@ -17238,7 +17238,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 119.38 323.088 90)
 			(effects
 				(font
@@ -17713,7 +17713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 284.48 140.97 0)
 			(effects
 				(font
@@ -18651,7 +18651,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 54.61 314.198 90)
 			(effects
 				(font
@@ -18930,7 +18930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
 			(at 54.3052 46.99 0)
 			(effects
 				(font
@@ -18997,7 +18997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 429.26 390.398 90)
 			(effects
 				(font
@@ -19130,7 +19130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 429.26 359.918 90)
 			(effects
 				(font
@@ -19271,7 +19271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 308.102 382.27 90)
 			(effects
 				(font
@@ -19339,7 +19339,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 481.33 338.328 90)
 			(effects
 				(font
@@ -19605,7 +19605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 320.04 93.218 90)
 			(effects
 				(font
@@ -20388,7 +20388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 157.1752 350.52 0)
 			(effects
 				(font
@@ -20590,7 +20590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1825_4564Metric"
 			(at 245.11 236.22 0)
 			(effects
 				(font
@@ -20737,7 +20737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 236.22 241.6048 0)
 			(effects
 				(font
@@ -20937,7 +20937,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 481.33 358.648 90)
 			(effects
 				(font
@@ -21070,7 +21070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 70.612 91.44 90)
 			(effects
 				(font
@@ -21402,7 +21402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 330.2 169.418 90)
 			(effects
 				(font
@@ -21470,7 +21470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 330.2 57.658 90)
 			(effects
 				(font
@@ -21540,7 +21540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 141.9352 350.52 0)
 			(effects
 				(font
@@ -21608,7 +21608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Sunlord_MWSA0605S"
 			(at 38.1 134.62 0)
 			(effects
 				(font
@@ -21676,7 +21676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-12_Kemet-S_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 346.71 83.058 90)
 			(effects
 				(font
@@ -22063,7 +22063,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Cree-XP"
 			(at 36.83 300.99 0)
 			(effects
 				(font
@@ -22139,7 +22139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.272 93.98 90)
 			(effects
 				(font
@@ -22405,7 +22405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 243.332 379.73 90)
 			(effects
 				(font
@@ -22605,7 +22605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 481.33 315.468 90)
 			(effects
 				(font
@@ -22673,7 +22673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 481.33 367.538 90)
 			(effects
 				(font
@@ -22807,7 +22807,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 120.65 301.498 90)
 			(effects
 				(font
@@ -23338,7 +23338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
 			(at 75.8952 146.05 0)
 			(effects
 				(font
@@ -23947,7 +23947,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 481.33 348.488 90)
 			(effects
 				(font
@@ -24014,7 +24014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0614_L14.3mm_D5.7mm_P5.08mm_Vertical"
+		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
 			(at 429.26 367.538 90)
 			(effects
 				(font
@@ -24261,7 +24261,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 119.38 312.928 90)
 			(effects
 				(font
@@ -24329,7 +24329,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_Cree-XP"
 			(at 35.56 312.42 0)
 			(effects
 				(font
